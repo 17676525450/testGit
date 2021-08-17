@@ -3,9 +3,10 @@ package com.xianjianyv.git;
 public class HelloGit {
 	public static void name() {
 		System.out.print("Hello Git");
-		System.out.print("更新1");
-		System.out.print("创建分支");
-		System.out.print("主干添加");
-		System.out.print("分支添加");
+		System.out.print("鏇存柊1");
+		System.out.print("鍒涘缓鍒嗘敮");
+		System.out.print("涓诲共娣诲姞");
+		System.out.print("鍒嗘敮娣诲姞");
+		System.out.print("鍦ㄧ嚎娣诲姞");
 	}
 }
