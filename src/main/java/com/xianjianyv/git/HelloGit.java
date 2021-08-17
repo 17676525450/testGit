@@ -3,9 +3,10 @@ package com.xianjianyv.git;
 public class HelloGit {
 	public static void name() {
 		System.out.print("Hello Git");
-		System.out.print("¸üĞÂ1");
-		System.out.print("´´½¨·ÖÖ§");
-		System.out.print("Ö÷¸ÉÌí¼Ó");
-		System.out.print("·ÖÖ§Ìí¼Ó");
+		System.out.print("ï¿½ï¿½ï¿½ï¿½1");
+		System.out.print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö§");
+		System.out.print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		System.out.print("ï¿½ï¿½Ö§ï¿½ï¿½ï¿½");
+		System.out.print("ç¬¬äºŒæ¬¡æäº¤ä¹‹å‰");
 	}
 }
